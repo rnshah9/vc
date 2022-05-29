@@ -1,0 +1,6 @@
+project: rnshah9/vc
+target: vc
+
+cmds:
+  - cmd: /repo/vcompiler @@
+    filepath: /test.v
